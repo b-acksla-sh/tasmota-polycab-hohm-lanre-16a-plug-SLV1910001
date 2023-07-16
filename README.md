@@ -13,15 +13,15 @@ This is a teardown and a guide about preparing a Polycab Hohm Lanre 16A Smart Wi
 
 ![](https://archive.5577.io/2307/polycab_16A-02.jpg)
 
-A heavy vise can be used to clamp down opposing corners, the compression will cause the casing to seperate.
+A heavy vise can be used to clamp down opposing corners, the compression will cause the casing to separate.
 
 ![](https://archive.5577.io/2307/polycab_16A-03.jpg)
 
-The tip of a box cutter can then be run around the edges to further separate the casing.
+The tip of a box cutter can then be run around the edges to help separate the casing more.
 
 ![](https://archive.5577.io/2307/polycab_16A-04.jpg)
 
-Clamp down the other opposing corners. Run the box cutter one more time and the bottom of the casing should separate cleanly.
+Further the separation by clamping down the other two opposing corners. Run the box cutter one more time and the bottom of the casing should separate cleanly.
 
 ![](https://archive.5577.io/2307/polycab_16A-05.jpg)
 
@@ -51,7 +51,7 @@ A desoldering pump (solder sucker) removes most of the solder, you'll need to do
 
 ![](https://archive.5577.io/2307/polycab_16A-11.jpg)
 
-The right pin area is crowded with a few components, sometimes you can insert the soldering iron straight down, sometimes this ends up melting a nearby component like the fuse here. Bending the pin receptacle gives you a little extra working space.
+The right pin area is crowded with a few components. Sometimes you can insert the soldering iron straight down, sometimes this ends up melting a nearby component like the fuse here. Bending the pin receptacle gives you a little extra working space.
 
 Once the solder is molten, the pcb can be wriggled free. A heavy vise makes for a good third hand in this situation.
 
@@ -85,7 +85,7 @@ The plug can be then reassembled for testing without soldering the input pins or
 
 	template {"NAME":"SLV1910001","GPIO":[0,0,0,32,2720,2656,0,0,2624,576,224,0,0,0],"FLAG":0,"BASE":18}
 
-Navigate to _Configuration_ and then _Configure Module_ and select _SLV1910001 (0)_ which should now be at the top the list and tap on enter. This should prompt a reboot after which your tasmotized wifi plug is ready to use.
+Navigate to _Configuration_ and then _Configure Module_ and select _SLV1910001 (0)_ which should now be at the top the list and then tap on _Save_. This should prompt a reboot after which your tasmotized wifi plug is ready to use.
 
 Finish with resoldering the pins, bending back the right pin receptacle, reinstalling the earthing pin receptacle and resealing the casing with your favourite low viscosity adhesive. [Flex Kwik](https://www.amazon.in/s?k=flex+kwik) works well, allow a few minutes to cure.
 
