@@ -31,7 +31,7 @@ This pivoted motion is not advised for the 10A version, that model has an electr
 
 ![](https://archive.5577.io/2307/polycab_16A-06.jpg)
 
-The next sequence of steps is to slice away at the heatstaking and desoldering the two input pins to seperate the pcb from the bottom casing.
+The next sequence of steps is to slice away at the heat-staking and desoldering the two input pins to separate the pcb from the bottom casing.
 
 ![](https://archive.5577.io/2307/polycab_16A-07.jpg)
 
@@ -39,7 +39,7 @@ Start with removing the earth pin receptacle which is simply unscrewed. It's ver
 
 ![](https://archive.5577.io/2307/polycab_16A-08.jpg)
 
-There are four heatstaked supports, each one needs to be cut away cleanly.
+There are four heat-staked supports, each one needs to be cut away cleanly.
 
 ![](https://archive.5577.io/2307/polycab_16A-09.jpg)
 
